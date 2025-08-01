@@ -1,3 +1,5 @@
+CREATE DATABASE IF NOT EXISTS prueba;
+
 USE prueba;
 
 -- Clients table

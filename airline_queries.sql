@@ -1,3 +1,5 @@
+USE prueba;
+
 -- 1. Total number of flights
 SELECT COUNT(DISTINCT flight_number) AS total_flights FROM Flight;
 
